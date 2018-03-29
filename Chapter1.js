@@ -18,6 +18,8 @@ while ((amount+PHONE_PRICE+PHONE_ACCESSORY_PRICE) < bankAccountBalance)  {
 amount=amount+PHONE_PRICE+PHONE_ACCESSORY_PRICE;
 console.log(amount);
 
+
+
 }
 
 formatPrice(amount);
